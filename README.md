@@ -3,39 +3,28 @@
 
 ## Informações importantes
 
-  - Nosso blog: <https://curso-r.com/blog/>
+-   Nosso blog: <https://curso-r.com/blog/>
 
-  - Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
+-   Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
     [Zen do R](https://curso-r.github.io/zen-do-r/)
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
-  - perguntas gerais sobre o curso deverão ser feitas no Classroom.
+-   perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
-  - perguntas sobre R, principalmente as que envolverem código, deverão
+-   perguntas sobre R, principalmente as que envolverem código, deverão
     ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
-  - [Slides completos do
+-   [Slides completos do
     curso](https://curso-r.github.io/main-pacotes/slides/index.html)
 
 ## Scripts utilizados em aula
 
-| script |
-| :----- |
-
-## Lição de casa
-
-| exercicio                                                                                                                   |
-| :-------------------------------------------------------------------------------------------------------------------------- |
-| [exercicios/01-exercicio-funcao.R](https://curso-r.github.io/main-pacotes/exercicios/01-exercicio-funcao.R)                 |
-| [exercicios/02-exercicio-funcao-2.R](https://curso-r.github.io/main-pacotes/exercicios/02-exercicio-funcao-2.R)             |
-| [exercicios/03-exercicio-funcao-desafio.R](https://curso-r.github.io/main-pacotes/exercicios/03-exercicio-funcao-desafio.R) |
-| [exercicios/04-exercicio-testes.R](https://curso-r.github.io/main-pacotes/exercicios/04-exercicio-testes.R)                 |
-| [exercicios/05-exercicio-testes.R](https://curso-r.github.io/main-pacotes/exercicios/05-exercicio-testes.R)                 |
+<https://github.com/beatrizmilz/meupacote0522>
 
 ## Material extra
 
@@ -44,7 +33,7 @@ que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
 | Aula | Tema                    | Descrição                                                                                                                          |
-| ---: | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+|-----:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 |    0 | Referências             | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                                              |
 |    0 | Referências             | [Livro R Packages](https://r-pkgs.org/)                                                                                            |
 |    1 | Boas práticas           | [Tidyverse Style Guide](https://principles.tidyverse.org/)                                                                         |
@@ -59,12 +48,16 @@ relacionadas com o conteúdo da aula).
 |    1 | Referências             | [Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/package-development.pdf)                                            |
 |    1 | Repositórios de pacotes | [rOpenSci](https://ropensci.org/packages/all/)                                                                                     |
 |    1 | Tirar dúvidas           | [Video curso sobre o pacote Reprex](https://www.youtube.com/watch?v=IxlGYVnaGXk)                                                   |
+|    1 | IDE                     | [Programando R no VS Code](https://blog.curso-r.com/posts/2021-11-06-r-no-vscode/)                                                 |
+|    1 | IDE                     | [R em 2021 com o VSCode](https://datamares.netlify.app/post/r-vscode/)                                                             |
+|    1 | IDE                     | [VS Code](https://code.visualstudio.com/)                                                                                          |
 |    1 | Conversas               | [Programando R no VS Code](https://blog.curso-r.com/posts/2021-11-06-r-no-vscode/)                                                 |
 |    1 | pacotes                 | [Pacote dados](https://cienciadedatos.github.io/dados/)                                                                            |
 |    1 | Dúvidas                 | [Videos do livro “Introduction to statistical learning”](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V) |
 |    1 | Dúvidas                 | [VS code - atalhos](https://github.com/REditorSupport/vscode-R/wiki/Keyboard-shortcuts)                                            |
 |    1 | Dúvidas                 | [Edição 2 do livro “Introduction to statistical learning”](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)                     |
 |    1 | Dúvidas                 | [Livro - “Introduction to statistical learning”](https://www.statlearning.com/)                                                    |
+|    2 | Dúvidas                 | [Pacote PAK](https://pak.r-lib.org/)                                                                                               |
 
 ## Redes sociais da Curso-R
 

@@ -5,7 +5,7 @@ params:
   trilha_clean: programacao_para_ciencia_de_dados
   turma: 202205-pacotes
   nome_curso: Pacotes
-  num_aula: '1'
+  num_aula: '2'
   download_material: 'FALSE'
 ---
 
@@ -49,37 +49,8 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-```{r}
-pasta <- "exemplos_de_aula/"
+<https://github.com/beatrizmilz/meupacote0522>
 
-knitr::kable(
-  tibble::tibble(
-    script = CursoRopen:::list_github_files(params$main_repo, pasta, ".R$"),
-    link = paste0(
-      "https://github.com/curso-r/",
-      params$turma,
-      "/blob/master/",
-      script
-    )
-  ) %>%
-    dplyr::mutate(script = glue::glue("[{script}]({link})")) %>%
-    dplyr::select(script)
-)
-```
-
-
-## Lição de casa
-
-```{r}
-tibble::tibble(
-  nome = CursoRopen:::list_github_files(params$main_repo, "exercicios/"),
-  link = paste0("https://curso-r.github.io/", params$main_repo, "/", nome),
-  exercicio = glue::glue("[{nome}]({link})")
-) %>%
-    dplyr::filter(!stringr::str_detect(nome, "resolucao_")) %>% 
-  dplyr::select(exercicio) %>% 
-  knitr::kable()
-```
 
 
 
