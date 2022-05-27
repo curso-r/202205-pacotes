@@ -5,7 +5,7 @@ params:
   trilha_clean: programacao_para_ciencia_de_dados
   turma: 202205-pacotes
   nome_curso: Pacotes
-  num_aula: '2'
+  num_aula: '3'
   download_material: 'FALSE'
 ---
 
@@ -51,7 +51,11 @@ Fora do horário de aula ou monitoria:
 
 <https://github.com/beatrizmilz/meupacote0522>
 
+- Aula 3:
 
+  - [Configuração Git e GitHub](https://github.com/curso-r/202205-pacotes/blob/main/praticas/exemplo-aula-gh.R)
+  
+  - [Entendendo o link gerado pelo github pages](https://github.com/curso-r/202205-pacotes/blob/main/praticas/link-curso-r.R)  
 
 
 
