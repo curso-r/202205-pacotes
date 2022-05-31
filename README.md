@@ -3,35 +3,35 @@
 
 ## Informações importantes
 
-  - Nosso blog: <https://curso-r.com/blog/>
+-   Nosso blog: <https://curso-r.com/blog/>
 
-  - Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
+-   Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
     [Zen do R](https://curso-r.github.io/zen-do-r/)
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
-  - perguntas gerais sobre o curso deverão ser feitas no Classroom.
+-   perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
-  - perguntas sobre R, principalmente as que envolverem código, deverão
+-   perguntas sobre R, principalmente as que envolverem código, deverão
     ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
-  - [Slides completos do
+-   [Slides completos do
     curso](https://curso-r.github.io/main-pacotes/slides/index.html)
 
 ## Scripts utilizados em aula
 
 <https://github.com/beatrizmilz/meupacote0522>
 
-  - Aula 3:
-    
-      - [Configuração Git e
+-   Aula 3:
+
+    -   [Configuração Git e
         GitHub](https://github.com/curso-r/202205-pacotes/blob/main/praticas/exemplo-aula-gh.R)
-    
-      - [Entendendo o link gerado pelo github
+
+    -   [Entendendo o link gerado pelo github
         pages](https://github.com/curso-r/202205-pacotes/blob/main/praticas/link-curso-r.R)
 
 ## Material extra
@@ -41,7 +41,7 @@ que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
 | Aula | Tema                    | Descrição                                                                                                                                                                          |
-| ---: | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-----:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    0 | Referências             | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                                                                                              |
 |    0 | Referências             | [Livro R Packages](https://r-pkgs.org/)                                                                                                                                            |
 |    1 | Boas práticas           | [Tidyverse Style Guide](https://principles.tidyverse.org/)                                                                                                                         |
@@ -69,13 +69,19 @@ relacionadas com o conteúdo da aula).
 |    3 | Colaboração             | [Colaborando com o pacote Microdatasus](https://youtu.be/sRT8oSpECH4)                                                                                                              |
 |    3 | Git e GitHub            | [Folha de dicas do Git (cheatsheet)](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)                                                                          |
 |    3 | Git e GitHub            | [Materiais da R-Ladies SP sobre a Hacktoberfest 2020](https://r-ladies-sao-paulo.github.io/2020-hacktoberfest/)                                                                    |
-|    3 | Git e GitHub            | [Dúvida no discourse: erro com use\_github()](https://discourse.curso-r.com/t/github-erro-ao-usar-a-funcao-use-github/1111/4)                                                      |
+|    3 | Git e GitHub            | [Dúvida no discourse: erro com use_github()](https://discourse.curso-r.com/t/github-erro-ao-usar-a-funcao-use-github/1111/4)                                                       |
 |    3 | Git e GitHub            | [Introdução ao controle de versão com git, GitHub e RStudio](https://mauriciovancine.github.io/short-course-git-github-rstudio/slides/pres_short_course_git_github_rstudio.html#1) |
 |    3 | GitHub                  | [Termos main e master](https://blog.curso-r.com/posts/2020-07-27-github-main-branch/)                                                                                              |
 |    3 | Git e GitHub            | [Livro Happy Git and GitHub for the useR](https://happygitwithr.com/index.html)                                                                                                    |
 |    3 | Comunicação             | [Exemplo de pkgdown](https://github.com/tidyverse/dplyr/blob/main/_pkgdown.yml)                                                                                                    |
 |    3 | Comunicação             | [Exemplo de vignette](https://dplyr.tidyverse.org/articles/grouping.html)                                                                                                          |
 |    3 | Dúvidas                 | [Senha em arquivos estáticos html (avancado)](https://github.com/robinmoisson/staticrypt)                                                                                          |
+|    4 | GitHub Actions          | [Crontab](https://crontab.guru/)                                                                                                                                                   |
+|    4 | GitHub Actions          | [Documentação do GitHub Actions](https://docs.github.com/pt/actions/learn-github-actions/introduction-to-github-actions)                                                           |
+|    4 | GitHub Actions          | [Repositório Actions](https://github.com/r-lib/actions/tree/master/examples#quickstart-ci-workflow)                                                                                |
+|    4 | GitHub Actions          | [Como usar senhas no GitHub Actions](https://discourse.curso-r.com/t/armazenando-senhas-github-actions/1771)                                                                       |
+|    4 | Testes                  | [Palestra do Hadley Wickham sobre testes](https://www.youtube.com/watch?v=1ZrjWKcG1C4)                                                                                             |
+|    4 | Testes                  | [Pacote covr](https://covr.r-lib.org/)                                                                                                                                             |
 
 ## Redes sociais da Curso-R
 
